@@ -2,7 +2,7 @@
 
 ![](README.assets/2022-04-30%2011-42-52%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
-针对`Apollo5.0`及以上的版本，修复`LGSVL`隐含bug, 添加满足`Apollo`需求的传感器`Apollo_IMUsensor`，以及桥接通信插件`ApolloCyberRT`，对LGSVL源代码重新编译，生成符合`Apollo`的可执行文件，在Ubuntu2018, Win11系统上均通过测试。
+针对`Apollo5.0`及以上的版本，修复`LGSVL`隐含bug, 添加满足`Apollo`需求的传感器`Apollo_IMUsensor`，以及桥接通信插件`ApolloCyberRT`，对LGSVL源代码重新编译，生成符合`Apollo`的可执行文件，在ubuntu18.04, Win10系统上均通过测试。
 
 #### 下载
 
